@@ -1,0 +1,24 @@
+_repo: The-Post-Office-and-Its-Story-An-interesting-account-of-the-activities-of-a-great-government-__55685
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Edward
+    gutenberg_agent_id: '48587'
+    url: http://www.gutenberg.org/2009/agents/48587
+description: ''
+gutenberg_issued: '2017-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55685'
+  lccn: '11029059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Postal service -- Great Britain -- History'
+- GITenberg
+title: "The Post Office and Its Story\r\nAn interesting account of the activities\
+  \ of a great government department"
+url: http://www.gutenberg.org/ebooks/55685
